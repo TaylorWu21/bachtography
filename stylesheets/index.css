@@ -1,0 +1,58 @@
+.parallax-container {
+  height: 100vh;
+}
+
+nav {
+  background-color: white;
+  height: 75px
+}
+
+.paralax-link {
+  padding-top: 50vh;
+}
+
+.paralax-link .btn {
+  background-color: transparent;
+  border: white solid 1px;
+}
+
+.paralax-link .btn:hover {
+  background-color: grey;
+}
+
+.icons {
+  color: black;
+}
+
+.icons:hover {
+  color: grey;
+  background-color: white;
+}
+
+.nav-links {
+  font-weight: 200;
+  font-size: 15px;
+  border: black solid 1px;
+  border-radius: 25%;
+  padding-bottom: -5px;
+  margin: 5px;
+}
+
+.nav-links:hover {
+  background-color: transparent;
+}
+
+.nav-links-wrapper li {
+  height: 60px;
+}
+
+.brand-font {
+  font-family: 'Satisfy', cursive;
+  height: 80px;
+  font-size: 3.7rem !important;
+  padding: 5px 0px 0px 5px !important;
+}
+
+.fa-bars {
+  padding-top: 5px;
+}
