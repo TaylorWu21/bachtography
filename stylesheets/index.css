@@ -1,10 +1,9 @@
 .parallax-container {
-  height: 100vh;
+  height: 90vh;
 }
 
-nav {
-  background-color: white;
-  height: 75px
+.parallax img {
+  bottom: -400px;
 }
 
 .paralax-link {
@@ -18,6 +17,11 @@ nav {
 
 .paralax-link .btn:hover {
   background-color: grey;
+}
+
+nav {
+  background-color: white;
+  height: 75px
 }
 
 .icons {
